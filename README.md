@@ -1,6 +1,8 @@
 # AntwerpRClub
 General repository for documents relating to Antwerp R Club A[R]C
 
+# Location for A[R]C
+Future A[R]C sessions will take place in C1.09 unless notified here
 
 # Program for A[R]C
 
