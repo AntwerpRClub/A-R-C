@@ -12,9 +12,9 @@ Please get in touch if you wish to host a session
 
 15th June - General / TBC / Discussion before summer break
 
-1st June - Using RMarkDown to make beautiful documents - room C.1.09
+1st June - Using RMarkDown to make beautiful documents
 
-18th May - Dplyr approach to data manipulation - room C.1.09
+18th May - Dplyr approach to data manipulation
 
 4th May - Data structures, data manipulation and flow control
 
