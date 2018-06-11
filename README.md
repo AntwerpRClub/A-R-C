@@ -12,9 +12,13 @@ Please get in touch if you wish to host a session
 
 ## Passed:
 27th April - Introduction to A[R]C, R studio and the tidyverse
+
 4th May - Data structures, data manipulation and flow control
+
 18th May - Dplyr approach to data manipulation
+
 1st June - Using RMarkDown to make beautiful documents
+
 
 ## Upcomming
 15th June - RMarkDown session repeated + discussion in function of next years' sessions.
