@@ -10,12 +10,11 @@ Below is a tentative outline for upcoming A[R]C sessions that will be updated.
 
 Please get in touch if you wish to host a session
 
-15th June - General / TBC / Discussion before summer break
-
+## Passed:
+27th April - Introduction to A[R]C, R studio and the tidyverse
+4th May - Data structures, data manipulation and flow control
+18th May - Dplyr approach to data manipulation
 1st June - Using RMarkDown to make beautiful documents
 
-18th May - Dplyr approach to data manipulation
-
-4th May - Data structures, data manipulation and flow control
-
-27th April - Introduction to A[R]C, R studio and the tidyverse
+## Upcomming
+15th June - RMarkDown session repeated + discussion in function of next years' sessions.
